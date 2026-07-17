@@ -1,8 +1,0 @@
-{
-  "name": "Remix: Credishop Guayana",
-  "description": "Sistema de gestión de inventario en tiempo real, ventas, gastos, compras, devoluciones y reportes financieros mensuales en PDF para la tienda de celulares y accesorios Credishop Guayana.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
