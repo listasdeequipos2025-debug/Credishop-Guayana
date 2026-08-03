@@ -1,6 +1,6 @@
-# Credishop Guayana - Sistema de Gestión de Inventario y Ventas 📱✨
+# Singlutenpzo - Sistema de Gestión de Inventario y Ventas 📱✨
 
-Este es un sistema completo de nivel empresarial para la gestión en tiempo real de inventarios, ventas, compras, deudas de proveedores, clientes, abonos, devoluciones y reportes financieros mensuales con exportación a PDF y Excel para **Credishop Guayana** (Celulares y Accesorios de Alta Gama).
+Este es un sistema completo de nivel empresarial para la gestión en tiempo real de inventarios, ventas, compras, deudas de proveedores, clientes, abonos, devoluciones y reportes financieros mensuales con exportación a PDF y Excel para **Singlutenpzo** (Celulares y Accesorios de Alta Gama).
 
 El sistema cuenta con una interfaz web pulida y moderna construida en React, integrada con un servidor backend Express que interactúa con Google Gemini para el procesamiento inteligente de documentos contables y facturas, y sincronizada en tiempo real con Firebase Firestore.
 
