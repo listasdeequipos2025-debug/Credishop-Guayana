@@ -958,7 +958,7 @@ export default function ClientesManager({
       `¡Hola! ${greeting}, le saludamos con mucho gusto.\n\n` +
       `💚 *¡MUCHAS GRACIAS POR SU COMPRA Y CONFIANZA!*\n\n` +
       `${detailText}\n\n` +
-      `Ha sido un verdadero placer atenderle. Le recordamos que elaboramos y distribuimos productos 100% libres de gluten, harinas nutritivas alternativas y postres saludables de la más alta calidad.\n\n` +
+      `Ha sido un verdadero placer atenderle. Le recordamos que elaboramos y distribuimos productos libres de gluten, hechos con harinas nutritivas alternativas y postres saludables de la más alta calidad.\n\n` +
       `✨ *Estamos completamente a su orden para su próximo pedido.* ¡Que tenga un feliz y bendecido día! 🌾📦`;
 
     const url = `https://api.whatsapp.com/send?phone=${finalPhone}&text=${encodeURIComponent(text)}`;
